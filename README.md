@@ -2,8 +2,6 @@
 
 ### Mechanical Engineer turned energy startup & data masochist
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DW-johnK&label=Profile views&color=0e75b6&style=flat" alt="DW-johnK" /> </p>
-
 <p align="left"> <a href="https://twitter.com/jakalfayan" target="blank"><img src="https://img.shields.io/twitter/follow/jakalfayan?logo=twitter&style=for-the-badge" alt="jakalfayan" /></a> </p>
 
 - 🔭 I'm currently working on **Collide. -- https://github.com/Digital-Wildcatters**
